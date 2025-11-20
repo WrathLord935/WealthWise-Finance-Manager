@@ -3,7 +3,13 @@
 **WealthWise** is a personal finance management web application that helps users securely track income and expenses with real-time summaries and visual charts. Built using **Flask**, **Python**, **SQL**, and **HTML/CSS**, it supports multi-user login and is ideal for individuals managing their day-to-day finances.
 
 🔗 **🌐 Live Demo:** [https://wealthwise-finance-manager-version-1-0.onrender.com](https://wealthwise-finance-manager-version-1-0.onrender.com)  
-🔗 **📦 Source Code:** [https://github.com/fadhil-vs/WealthWise-Finance-Manager](https://github.com/fadhil-vs/WealthWise-Finance-Manager)
+🔗 **📦 Source Code:** [https://github.com/WrathLord935/WealthWise-Finance-Manager](https://github.com/WrathLord935/WealthWise-Finance-Manager)
+
+---
+
+## 🤝 Contributers
+**[Sufiyan Shiraj Mohammed]**(https://github.com/Wrathlord935)
+**[Fadhil VS](https://github.com/fadhil-vs)**
 
 ---
 

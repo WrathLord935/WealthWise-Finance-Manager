@@ -8,7 +8,7 @@
 ---
 
 ## 🤝 Contributers
-**[Sufiyan Shiraj Mohammed]**(https://github.com/Wrathlord935)
+**[Sufiyan Shiraj Mohammed](https://github.com/Wrathlord935)**
 **[Fadhil VS](https://github.com/fadhil-vs)**
 
 ---
